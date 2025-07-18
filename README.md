@@ -43,7 +43,7 @@ Este projeto utiliza redes neurais convolucionais (CNNs) com TensorFlow e Keras 
 
 O modelo treinado já está disponível neste repositório:
 
-➡️ [`modelo_final.keras`](./melhor_modelo.keras)
+➡️ [`modelo_final.keras`](./melhor_modelo.zip)
 
 Ele foi salvo após atingir a melhor acurácia de validação, utilizando MobileNetV2 com ajuste fino e Focal Loss.
 
