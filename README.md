@@ -20,7 +20,7 @@ Este projeto utiliza redes neurais convolucionais (CNNs) com TensorFlow e Keras 
 - **Total de acertos:** 2.103  
 - **Matriz de confusão:**
 
-![Matriz de Confusão](matriz_confusao.png)
+![Matriz de Confusão](matriz_de confusao.png)
 
 ### 📊 Acurácia por Classe
 
